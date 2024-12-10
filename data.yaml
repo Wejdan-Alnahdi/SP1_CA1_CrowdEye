@@ -1,0 +1,13 @@
+names:
+- head
+- human headumrah - v2 2024-02-18 7-43pm
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: h-0js3q
+  url: https://universe.roboflow.com/project-zijvj/h-0js3q/dataset/1
+  version: 1
+  workspace: project-zijvj
+test: ../test/images
+train: D:/GITT/crowd-detection/Haed-counting-1/train/images
+val: D:/GITT/crowd-detection/Haed-counting-1/valid/images
